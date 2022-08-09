@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "yarn cypress open",
-    "cy:run": "yarn cypress run"
+    "cy:run": "npx cypress run"
   },
   "devDependencies": {
     "cypress": "^10.4.0",
